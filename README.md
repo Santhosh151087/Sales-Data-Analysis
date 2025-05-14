@@ -23,7 +23,7 @@ A Python project for analyzing sales data from a commercial store using `pandas`
 
 ---
 
-## ▶️ How to Run
+# How to Run
 
 1. Run this Python file. It will auto-create a sample `sales_data.csv` file.
 2. Install required libraries if needed:
